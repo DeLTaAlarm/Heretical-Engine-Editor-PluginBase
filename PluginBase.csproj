@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+
+	<ItemGroup>
+		<Reference Include="Avalonia" />
+
+		<Reference Include="Avalonia.Base" />
+
+		<Reference Include="Avalonia.Controls" />
+
+		<Reference Include="Avalonia.Markup" />
+		
+		<Reference Include="Avalonia.Markup.Xaml" />
+	</ItemGroup>
+
+</Project>
